@@ -6,7 +6,7 @@ Exporting from RDA (Resource Description and Access) to RES (Research and Educat
 ## Introduction
 Since 2013, the <a href="https://bbcarchdev.github.io/res/" target="_blank">RES project</a> has been working with teachers, students and academics, along with curators of world class digital collections and product developers to improve the resources and tools available in all levels of education. The project was a partnership initiative between the <a href="http://www.bbc.co.uk/" target="_blank">BBC</a>, <a href="http://bufvc.ac.uk/" target="_blank">Learning on Screen</a> and <a href="https://www.jisc.ac.uk/" target="_blank">Jisc</a>. 
 
-<a href="https://bbcarchdev.github.io/inside-acropolis/#res-intro" target="_blank><img src=https://bbcarchdev.github.io/inside-acropolis/powered-by-res-icon-green-text.jpeg></a> 
+<a href="https://bbcarchdev.github.io/inside-acropolis/#res-intro" target="_blank"><img src=https://bbcarchdev.github.io/inside-acropolis/powered-by-res-icon-green-text.jpeg></a> 
 
 RES provides an open platform built by the BBC. The platform indexes and organises the digital collections of libraries, museums, broadcasters and galleries to make their content more discoverable, accessible and usable to those in UK education and research. Images, TV and radio programmes, documents and text from world class organisations such as The British Museum, British Library, The National Archives, Europeana, Wellcome Trust and the BBC are all being indexed by RES. RES also enables developers to create digital educational products that will inspire learners, teachers and researchers by using applications powered by the RES platform.
 
